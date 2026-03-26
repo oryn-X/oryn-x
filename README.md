@@ -2,7 +2,5 @@
   <img src="void--panel.svg" alt="animated low-level panel" width="100%" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-Low--Level-111827?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-Systems-111827?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Memory%20%26%20Tooling-111827?style=for-the-badge" />
+  What began as a childhood fascination became a quiet commitment. Through long days, difficult circumstances, and steady work, I kept returning to programming — not out of convenience, but because it has always felt like part of who I am.
 </p>
